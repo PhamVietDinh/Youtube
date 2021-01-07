@@ -36,7 +36,7 @@ Jinja2==2.10
 jsonschema==2.6.0
 jupyter-client==5.1.0
 jupyter-core==4.4.0
-lxml==4.0.0
+lxml==4.6.2
 Mako==1.0.3
 MarkupSafe==0.23
 mccabe==0.6.1
